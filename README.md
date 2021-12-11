@@ -4,7 +4,7 @@ In this repository, I made an amazing app with tkinter python language and other
 
 <b>if you want the <code>GUI</code> that help you with <code>tkinter</code> and it is a good <code>GUI</code></b>
 
-# The code ⬇⬇:
+# The code of GUI ⬇⬇:
 
         from tkinter import *
         from tkinter import ttk
